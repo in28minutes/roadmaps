@@ -3,6 +3,7 @@
 ## Skills You Will Learn
 
 - Java
+- OOPs
 - Spring 
 - Spring Boot
 - Spring Cloud
