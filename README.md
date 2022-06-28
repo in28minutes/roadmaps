@@ -1,12 +1,12 @@
 # in28minutes Roadmaps
 
 - [AWS Roadmap](#aws-roadmap)
-- [Azure Roadmap](./azure.md)
-- [Google Cloud Roadmap](./google-cloud.md)
-- [Cloud Beginner Roadmap](./cloud.md)
-- [DevOps Roadmap](./devops.md)
-- [Java Full Stack Roadmap](./java-full-stack.md)
-- [Java Microservices Roadmap](./java-microservices.md)
+- [Azure Roadmap](#azure-roadmap)
+- [Google Cloud Roadmap](#google-cloud-roadmap)
+- [Cloud Beginner Roadmap](#cloud-beginner-roadmap)
+- [DevOps Roadmap](#devops-roadmap)
+- [Java Full Stack Roadmap](#java-full-stack-roadmap)
+- [Java Microservices Roadmap](#java-microservices-roadmap)
 
 # AWS Roadmap
 
