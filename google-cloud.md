@@ -13,14 +13,14 @@
 
 
 ## Recommended Course Path
-[![Image](https://www.springboottutorial.com/images/Course-gcp-cdl.png " Course")](https://links.in28minutes.com/gcp-cdl)
-[![Image](https://www.springboottutorial.com/images/Course-gcp-ace.png " Course")](https://links.in28minutes.com/gcp-ace)
-[![Image](https://www.springboottutorial.com/images/Course-gcp-pca.png " Course")](https://links.in28minutes.com/gcp-pca)
-[![Image](https://www.springboottutorial.com/images/Course-gcp-pcd.png " Course")](https://links.in28minutes.com/gcp-pcd)
+[![Image](https://www.springboottutorial.com/images/Course-gcp-cdl.png " Course")](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=JULY2022)
+[![Image](https://www.springboottutorial.com/images/Course-gcp-ace.png " Course")](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/?couponCode=JULY2022)
+[![Image](https://www.springboottutorial.com/images/Course-gcp-pca.png " Course")](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?couponCode=JULY2022)
+[![Image](https://www.springboottutorial.com/images/Course-gcp-pcd.png " Course")](https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer/?couponCode=JULY2022)
 
 ## Recommended Next Steps
 
-[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://links.in28minutes.com/DevOps-SBT)
+[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=JULY2022)
 
 ## What Our 1 MILLION Learners Say
 - :star::star::star::star::star: Wow, what can I say? I just passed my second exam this month (NO PRIOR EXPERIENCE) and now I have two Google Cloud Certs (CDL and ACE). I'm very thankful for Ranga and his amazing content.

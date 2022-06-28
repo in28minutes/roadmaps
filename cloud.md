@@ -8,13 +8,13 @@
 - Explore Azure
 
 ## Recommended Course Path
-[![Image](https://www.springboottutorial.com/images/Course-aws-certified-cloud-practitioner.png " Course")](https://links.in28minutes.com/aws-certified-cloud-practitioner)
-[![Image](https://www.springboottutorial.com/images/Course-azure-az-900.png "Course")](https://links.in28minutes.com/az-900)
-[![Image](https://www.springboottutorial.com/images/Course-gcp-cdl.png " Course")](https://links.in28minutes.com/gcp-cdl)
+[![Image](https://www.springboottutorial.com/images/Course-aws-certified-cloud-practitioner.png " Course")](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=JULY2022)
+[![Image](https://www.springboottutorial.com/images/Course-azure-az-900.png "Course")](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=JULY2022)
+[![Image](https://www.springboottutorial.com/images/Course-gcp-cdl.png " Course")](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=JULY2022)
 
 ## Recommended Next Steps
 
-[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://links.in28minutes.com/DevOps-SBT)
+[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=JULY2022)
 
 ## What Our 1 MILLION Learners Say
 - :star::star::star::star::star: Wow, what can I say? I just passed my second exam this month (NO PRIOR EXPERIENCE) and now I have two Google Cloud Certs (CDL and ACE). I'm very thankful for Ranga and his amazing content.

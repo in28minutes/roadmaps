@@ -12,7 +12,7 @@
 
 5-in-1 course
 
-[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://links.in28minutes.com/DevOps-SBT)
+[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=JULY2022)
 
 
 ## Skills You Will Learn
@@ -24,7 +24,7 @@
 - Terraform
 - Ansible
 
-## What Our 900,000 Learners Say
+## What Our 1 MILLION Learners Say
 
 - :star::star::star::star::star: The best instructor of Udemy! This is a great course to understand about DevOps, the involved concepts, and to apply the concepts.
 - :star::star::star::star::star: Loved the way how the course was organized with an emphasis on following with hands-on. This should be the benchmark in Dev-Ops training for anyone who wants to get acquainted with Dev-Ops.

@@ -13,13 +13,13 @@
 	- Features of conversational AI workloads on Azure.
 
 ## Recommended Course Path
-[![Image](https://www.springboottutorial.com/images/Course-azure-az-900.png "Course")](https://links.in28minutes.com/az-900)
-[![Image](https://www.springboottutorial.com/images/Course-azure-dp-900.png " Course")](https://links.in28minutes.com/dp-900)
-[![Image](https://www.springboottutorial.com/images/Course-azure-ai-900.png " Course")](https://links.in28minutes.com/ai-900)
+[![Image](https://www.springboottutorial.com/images/Course-azure-az-900.png "Course")](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=JULY2022)
+[![Image](https://www.springboottutorial.com/images/Course-azure-dp-900.png " Course")](https://www.udemy.com/course/dp-900-azure-data-fundamentals-certification/?couponCode=JULY2022)
+[![Image](https://www.springboottutorial.com/images/Course-azure-ai-900.png " Course")](https://www.udemy.com/course/azure-ai-900-azure-ai-fundamentals/?couponCode=JULY2022)
 
 ## Recommended Next Steps
 
-[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://links.in28minutes.com/DevOps-SBT)
+[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=JULY2022)
 
 ## What Our 1 MILLION Learners Say
 - :star::star::star::star::star: - Get certified quickly without even looking for other resources. Just watch videos for 2 days and appeared for the exam and cleared the exam.
