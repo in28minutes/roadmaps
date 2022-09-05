@@ -31,7 +31,7 @@
 
 ## Recommended Next Steps
 
-[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=JULY2022)
+[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 ## What Our 1 MILLION Learners Say
 - :star::star::star::star::star: Great course, AWS well explained E2E, good tough quiz sections and perfect hands-on practice.
@@ -59,13 +59,13 @@
 	- Features of conversational AI workloads on Azure.
 
 ## Recommended Course Path
-[![Image](https://www.springboottutorial.com/images/Course-azure-az-900.png "Course")](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=JULY2022)
-[![Image](https://www.springboottutorial.com/images/Course-azure-dp-900.png " Course")](https://www.udemy.com/course/dp-900-azure-data-fundamentals-certification/?couponCode=JULY2022)
-[![Image](https://www.springboottutorial.com/images/Course-azure-ai-900.png " Course")](https://www.udemy.com/course/azure-ai-900-azure-ai-fundamentals/?couponCode=JULY2022)
+- [1: AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
+- [2: DP-900: Microsoft Azure Data Fundamentals in a Weekend](https://www.udemy.com/course/dp-900-azure-data-fundamentals-certification/?couponCode=SEP2022)
+- [3: AI-900: Microsoft Azure AI Fundamentals in a Weekend](https://www.udemy.com/course/azure-ai-900-azure-ai-fundamentals/?couponCode=SEP2022)
 
 ## Recommended Next Steps
 
-[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=JULY2022)
+[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 ## What Our 1 MILLION Learners Say
 - :star::star::star::star::star: - Get certified quickly without even looking for other resources. Just watch videos for 2 days and appeared for the exam and cleared the exam.
@@ -88,13 +88,15 @@
 - Explore Azure
 
 ## Recommended Course Path
-[![Image](https://www.springboottutorial.com/images/Course-aws-certified-cloud-practitioner.png " Course")](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=JULY2022)
-[![Image](https://www.springboottutorial.com/images/Course-azure-az-900.png "Course")](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=JULY2022)
-[![Image](https://www.springboottutorial.com/images/Course-gcp-cdl.png " Course")](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=JULY2022)
+- [1: Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
+- [2: AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=SEP2022)
+- [3: AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
+- [4: GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=SEP2022)
+
 
 ## Recommended Next Steps
 
-[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=JULY2022)
+[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 ## What Our 1 MILLION Learners Say
 - :star::star::star::star::star: Wow, what can I say? I just passed my second exam this month (NO PRIOR EXPERIENCE) and now I have two Google Cloud Certs (CDL and ACE). I'm very thankful for Ranga and his amazing content.
@@ -117,11 +119,9 @@
 - Terraform
 - Ansible
 
-## Recommended Course
+## Recommended Course - 5-in-1 course
 
-5-in-1 course
-
-[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=JULY2022)
+[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 
 ## Skills You Will Learn
@@ -161,14 +161,14 @@
 
 
 ## Recommended Course Path
-[![Image](https://www.springboottutorial.com/images/Course-gcp-cdl.png " Course")](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=JULY2022)
-[![Image](https://www.springboottutorial.com/images/Course-gcp-ace.png " Course")](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/?couponCode=JULY2022)
-[![Image](https://www.springboottutorial.com/images/Course-gcp-pca.png " Course")](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?couponCode=JULY2022)
-[![Image](https://www.springboottutorial.com/images/Course-gcp-pcd.png " Course")](https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer/?couponCode=JULY2022)
+- [1: GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=SEP2022)
+- [2: GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/?couponCode=SEP2022)
+- [3: Google Cloud Developer - GCP Professional Certification](https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer/?couponCode=SEP2022)
+- [4: GCP Professional Cloud Architect: Google Cloud Certification](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?couponCode=SEP2022)
 
 ## Recommended Next Steps
 
-[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=JULY2022)
+[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 ## What Our 1 MILLION Learners Say
 - :star::star::star::star::star: Wow, what can I say? I just passed my second exam this month (NO PRIOR EXPERIENCE) and now I have two Google Cloud Certs (CDL and ACE). I'm very thankful for Ranga and his amazing content.
@@ -199,24 +199,16 @@
 
 ## Recommended Course Path
 
-[![Image](https://www.springboottutorial.com/images/Course-Java-Programming-for-Complete-Beginners-in-250-Steps.png "Java 9 Programming for Complete Beginners in 250 Steps
-")](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=JULY2022)
-
-[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Master-Class---Beginner-to-Expert.png "Spring Master Class - Beginner to Expert")](https://www.udemy.com/course/spring-tutorial-for-beginners/?couponCode=JULY2022)
-
-[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-Spring-Boot-and-React.png "Go Full Stack with Spring Boot and React")](https://www.udemy.com/course/full-stack-application-with-spring-boot-and-react/?couponCode=JULY2022)
-
-[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-SpringBoot-And-Angular.png "Go Full Stack with Spring Boot and Angular")](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=JULY2022)
+- [1: Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=SEP2022)
+- [2: Spring Framework Master Class - Java Spring the Modern Way](https://www.udemy.com/course/spring-tutorial-for-beginners/?couponCode=SEP2022)
+- [3: Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=SEP2022)
 
 ## Recommended Next Steps
 
-[![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=JULY2022)
-
-[![Image](https://www.springboottutorial.com/images/Course-Master-Hibernate-and-JPA-with-Spring-Boot-in-100-Steps.png "Master Hibernate and JPA with Spring Boot in 100 Steps")](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?couponCode=JULY2022)
-
-[![Image](https://www.springboottutorial.com/images/Course-Master-Java-Unit-Testing-with-Spring-Boot-Mockito.png "Master Java Unit Testing with Spring Boot & Mockito")](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/?couponCode=JULY2022)
-
-[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=JULY2022)
+- [Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=SEP2022)
+- [Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?couponCode=SEP2022)
+- [Master Java Unit Testing with Spring Boot & Mockito](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/?couponCode=SEP2022)
+- [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 ## What Our 1 MILLION Learners Say
 
@@ -250,23 +242,16 @@ https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d5
 
 ## Recommended Course Path
 
-[![Image](https://www.springboottutorial.com/images/Course-Java-Programming-for-Complete-Beginners-in-250-Steps.png "Java 9 Programming for Complete Beginners in 250 Steps
-")](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=JULY2022)
-
-[![Image](https://www.springboottutorial.com/images/Course-Spring-Framework-Master-Class---Beginner-to-Expert.png "Spring Master Class - Beginner to Expert")](https://www.udemy.com/course/spring-tutorial-for-beginners/?couponCode=JULY2022)
-
-[![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=JULY2022)
-
+- [1: Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=SEP2022)
+- [2: Spring Framework Master Class - Java Spring the Modern Way](https://www.udemy.com/course/spring-tutorial-for-beginners/?couponCode=SEP2022)
+- [3: Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=SEP2022)
 
 ## Recommended Next Steps
 
-[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-Spring-Boot-and-React.png "Go Full Stack with Spring Boot and React")](https://www.udemy.com/course/full-stack-application-with-spring-boot-and-react/?couponCode=JULY2022)
-
-[![Image](https://www.springboottutorial.com/images/Course-Master-Hibernate-and-JPA-with-Spring-Boot-in-100-Steps.png "Master Hibernate and JPA with Spring Boot in 100 Steps")](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?couponCode=JULY2022)
-
-[![Image](https://www.springboottutorial.com/images/Course-Master-Java-Unit-Testing-with-Spring-Boot-Mockito.png "Master Java Unit Testing with Spring Boot & Mockito")](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/?couponCode=JULY2022)
-
-[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=JULY2022)
+- [Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=SEP2022)
+- [Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?couponCode=SEP2022)
+- [Master Java Unit Testing with Spring Boot & Mockito](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/?couponCode=SEP2022)
+- [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 
 ## What Our 1 MILLION Learners Say
