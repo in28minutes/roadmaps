@@ -59,17 +59,6 @@
 
 # Google Cloud Roadmap
 
-## Skills You Will Learn
-
-- Learn Cloud Fundamentals
-- Learn Google Cloud Fundamentals
-- Explore compute services
-- Explore database services
-- Explore storage services
-- Explore networking services
-- Learn to architect solutions
-- And a lot more...
-
 
 ## Recommended Course Path
 - [1: GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=SEP2022)
