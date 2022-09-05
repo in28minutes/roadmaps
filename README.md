@@ -11,16 +11,6 @@
 
 # AWS Roadmap
 
-## Skills You Will Learn
-
-- Learn Cloud Fundamentals
-- Learn AWS Fundamentals
-- Explore compute services
-- Explore database services
-- Explore storage services
-- Explore networking services
-- Learn to architect solutions
-- And a lot more...
 
 ## Recommended Course Path
 - [1: Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
@@ -46,18 +36,6 @@
 
 # Azure Roadmap
 
-## Skills You Will Learn
-- Cloud concepts
-- Azure services
-- Core data concepts
-	- Working with relational data on Azure
-	- Working with non-relational data on Azure
-	- Working with an analytics workload on Azure
-- Fundamental principles of machine learning on Azure
-	- Features of computer vision workloads on Azure
-	- Features of Natural Language Processing (NLP) workloads on Azure
-	- Features of conversational AI workloads on Azure.
-
 ## Recommended Course Path
 - [1: AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
 - [2: DP-900: Microsoft Azure Data Fundamentals in a Weekend](https://www.udemy.com/course/dp-900-azure-data-fundamentals-certification/?couponCode=SEP2022)
@@ -78,73 +56,6 @@
 
 - COMING SOON!
 
-# Cloud Beginner Roadmap
-
-## Skills You Will Learn
-
-- Cloud Fundamentals
-- Explore AWS
-- Explore Google Cloud
-- Explore Azure
-
-## Recommended Course Path
-- [1: Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
-- [2: AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=SEP2022)
-- [3: AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
-- [4: GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=SEP2022)
-
-
-## Recommended Next Steps
-
-[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
-
-## What Our 1 MILLION Learners Say
-- :star::star::star::star::star: Wow, what can I say? I just passed my second exam this month (NO PRIOR EXPERIENCE) and now I have two Google Cloud Certs (CDL and ACE). I'm very thankful for Ranga and his amazing content.
-- :star::star::star::star::star: Passed my GCDL on 29th december with a mind blowing score this course is must for all cloud aspirants.. It is explained very well
-- :star::star::star::star::star: Nice, crisp course! Very helpful for developing the required basic understanding of Google Cloud and clearing the certification.
-- :star::star::star::star::star: Ranga Karanam Best Instructor. Best Presentation. Best teaching Structure. Best Reviews after every section and at the end.
-- :star::star::star::star::star: This was an amazing experience learning GCP. Thank you Ranga!! I passed after going through your video in my first attempt!!
-
-## Video
-
-- COMING SOON!
-
-# DevOps Roadmap
-
-## Skills You Will Learn
-
-- Azure DevOps
-- Docker
-- Kubernetes
-- Terraform
-- Ansible
-
-## Recommended Course - 5-in-1 course
-
-[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
-
-
-## Skills You Will Learn
-
-- DevOps overview
-- Azure DevOps
-- Docker
-- Kubernetes
-- Terraform
-- Ansible
-
-## What Our 1 MILLION Learners Say
-
-- :star::star::star::star::star: The best instructor of Udemy! This is a great course to understand about DevOps, the involved concepts, and to apply the concepts.
-- :star::star::star::star::star: Loved the way how the course was organized with an emphasis on following with hands-on. This should be the benchmark in Dev-Ops training for anyone who wants to get acquainted with Dev-Ops.
-- :star::star::star::star::star: EXCELLENT COURSE!!! Love the instructor's energy, enthusiasm, and manner of instruction. This course is like 5 courses in 1. It is rare to find a course with such a breadth of technical topics and cloud platforms covered. Thank you for creating this course.
-- :star::star::star::star::star: Great hands-on experience of learning DevOps using Docker, Terraform, Kubernetes on GCP, AWS, and Azure. Each topic explaining very well with hands-on which is helping us to understand the concept easily. Awesome
-- :star::star::star::star::star: Great Information and solid teaching of the core concepts as well as the technical implementations of DevOps
-- :star::star::star::star::star: It's easy to understand, very complete, and good for beginners to start learning about DevOps
-
-## Free Preview Courses
-- [Learn Docker in 5 Steps](https://www.youtube.com/watch?v=Rt5G5Gj7RP0)
-- [Learn Kubernetes in 10 Steps](https://www.youtube.com/watch?v=rTNR7vDQDD8)
 
 # Google Cloud Roadmap
 
@@ -181,6 +92,51 @@
 
 - COMING SOON!
 
+# Cloud Beginner Roadmap
+
+## Recommended Course Path
+- [1: Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
+- [2: AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=SEP2022)
+- [3: AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
+- [4: GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=SEP2022)
+
+
+## Recommended Next Steps
+
+[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
+
+## What Our 1 MILLION Learners Say
+- :star::star::star::star::star: Wow, what can I say? I just passed my second exam this month (NO PRIOR EXPERIENCE) and now I have two Google Cloud Certs (CDL and ACE). I'm very thankful for Ranga and his amazing content.
+- :star::star::star::star::star: Passed my GCDL on 29th december with a mind blowing score this course is must for all cloud aspirants.. It is explained very well
+- :star::star::star::star::star: Nice, crisp course! Very helpful for developing the required basic understanding of Google Cloud and clearing the certification.
+- :star::star::star::star::star: Ranga Karanam Best Instructor. Best Presentation. Best teaching Structure. Best Reviews after every section and at the end.
+- :star::star::star::star::star: This was an amazing experience learning GCP. Thank you Ranga!! I passed after going through your video in my first attempt!!
+
+## Video
+
+- COMING SOON!
+
+# DevOps Roadmap
+
+
+## Recommended Course - 5-in-1 course
+
+[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
+
+
+## What Our 1 MILLION Learners Say
+
+- :star::star::star::star::star: The best instructor of Udemy! This is a great course to understand about DevOps, the involved concepts, and to apply the concepts.
+- :star::star::star::star::star: Loved the way how the course was organized with an emphasis on following with hands-on. This should be the benchmark in Dev-Ops training for anyone who wants to get acquainted with Dev-Ops.
+- :star::star::star::star::star: EXCELLENT COURSE!!! Love the instructor's energy, enthusiasm, and manner of instruction. This course is like 5 courses in 1. It is rare to find a course with such a breadth of technical topics and cloud platforms covered. Thank you for creating this course.
+- :star::star::star::star::star: Great hands-on experience of learning DevOps using Docker, Terraform, Kubernetes on GCP, AWS, and Azure. Each topic explaining very well with hands-on which is helping us to understand the concept easily. Awesome
+- :star::star::star::star::star: Great Information and solid teaching of the core concepts as well as the technical implementations of DevOps
+- :star::star::star::star::star: It's easy to understand, very complete, and good for beginners to start learning about DevOps
+
+## Free Preview Courses
+- [Learn Docker in 5 Steps](https://www.youtube.com/watch?v=Rt5G5Gj7RP0)
+- [Learn Kubernetes in 10 Steps](https://www.youtube.com/watch?v=rTNR7vDQDD8)
+
 # Java Full Stack Roadmap
 
 ## Skills You Will Learn
@@ -193,7 +149,6 @@
 - ES6
 - TypeScript
 - Angular
-- React
 - Building REST API
 - Building Full Stack Applications
 
