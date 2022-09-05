@@ -23,9 +23,11 @@
 - And a lot more...
 
 ## Recommended Course Path
-[![Image](https://www.springboottutorial.com/images/Course-aws-certified-cloud-practitioner.png " Course")](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=JULY2022)
-[![Image](https://www.springboottutorial.com/images/Course-aws-architect-associate-certification.png " Course")](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?couponCode=JULY2022)
-[![Image](https://www.springboottutorial.com/images/Course-aws-certified-developer-assoiciate.png " Course")](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?couponCode=JULY2022)
+[1: Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
+[2: AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=SEP2022)
+[3: AWS Certified Solutions Architect Associate - SAA C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?couponCode=SEP2022)
+[4: AWS Certified Developer Associate - AWS Certification](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?couponCode=SEP2022)
+[5: AWS Interview Guide - Review 50+ AWS Services in 5 Hours](https://www.udemy.com/course/aws-interview-questions-answers/?couponCode=SEP2022)
 
 ## Recommended Next Steps
 
