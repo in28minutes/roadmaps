@@ -1,6 +1,6 @@
 # in28minutes Roadmaps
 
-Helping 1 MILLION learners take their first step into Programming, Cloud and DevOps. [Follow Ranga on LinkedIn](https://links.in28minutes.com/lin)
+Helping 1 MILLION learners take their first step into Programming, Cloud and DevOps.
 
 
 - [AWS Roadmap](#aws-roadmap)
@@ -10,6 +10,10 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 - [DevOps Roadmap](#devops-roadmap)
 - [Java Full Stack Roadmap](#java-full-stack-roadmap)
 - [Java Microservices Roadmap](#java-microservices-roadmap)
+
+# Follow Ranga on LinkedIn
+
+- [Join 30,000+ Followers of Ranga on LinkedIn](https://links.in28minutes.com/lin)
 
 
 # AWS Roadmap
