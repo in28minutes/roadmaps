@@ -129,7 +129,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 ## Course - 5-in-1 course
 
-[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
+[1️⃣ Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 
 ## What Our 1 MILLION Learners Say
