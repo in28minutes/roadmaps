@@ -1,5 +1,7 @@
 # in28minutes Roadmaps
 
+Helping 1 MILLION learners take their first step into Programming, Cloud and DevOps. [Follow Ranga on LinkedIn](https://links.in28minutes.com/lin)
+
 - [AWS Roadmap](#aws-roadmap)
 - [Azure Roadmap](#azure-roadmap)
 - [Google Cloud Roadmap](#google-cloud-roadmap)
@@ -12,12 +14,7 @@
 # AWS Roadmap
 
 
-## Recommended Course Path
- 
- 
- 
- 
- 
+## Course Path
 
 - [1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
 - [2️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=SEP2022)
@@ -25,7 +22,7 @@
 - [4️⃣ AWS Certified Developer Associate - AWS Certification](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?couponCode=SEP2022)
 - [5️⃣ AWS Interview Guide - Review 50+ AWS Services in 5 Hours](https://www.udemy.com/course/aws-interview-questions-answers/?couponCode=SEP2022)
 
-## Recommended Next Steps
+## Next Steps
 
 [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
@@ -42,12 +39,12 @@
 
 # Azure Roadmap
 
-## Recommended Course Path
+## Course Path
 - [1️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
 - [2️⃣ DP-900: Microsoft Azure Data Fundamentals in a Weekend](https://www.udemy.com/course/dp-900-azure-data-fundamentals-certification/?couponCode=SEP2022)
 - [3️⃣ AI-900: Microsoft Azure AI Fundamentals in a Weekend](https://www.udemy.com/course/azure-ai-900-azure-ai-fundamentals/?couponCode=SEP2022)
 
-## Recommended Next Steps
+## Next Steps
 
 [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
@@ -66,13 +63,13 @@
 # Google Cloud Roadmap
 
 
-## Recommended Course Path
+## Course Path
 - [1️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=SEP2022)
 - [2️⃣ GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/?couponCode=SEP2022)
 - [3️⃣ Google Cloud Developer - GCP Professional Certification](https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer/?couponCode=SEP2022)
 - [4️⃣ GCP Professional Cloud Architect: Google Cloud Certification](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?couponCode=SEP2022)
 
-## Recommended Next Steps
+## Next Steps
 
 [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
@@ -89,14 +86,14 @@
 
 # Cloud Beginner Roadmap
 
-## Recommended Course Path
+## Course Path
 - [1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
 - [2️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=SEP2022)
 - [3️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
 - [4️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=SEP2022)
 
 
-## Recommended Next Steps
+## Next Steps
 
 [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
@@ -114,7 +111,7 @@
 # DevOps Roadmap
 
 
-## Recommended Course - 5-in-1 course
+## Course - 5-in-1 course
 
 [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
@@ -147,14 +144,14 @@
 - Building REST API
 - Building Full Stack Applications
 
-## Recommended Course Path
+## Course Path
 
 - [1️⃣ Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=SEP2022)
 - [2️⃣ Spring Framework Master Class - Java Spring the Modern Way](https://www.udemy.com/course/spring-tutorial-for-beginners/?couponCode=SEP2022)
 - [3️⃣ Learn Spring Boot 3 in 100 Steps - No 1 Java Framework](https://www.udemy.com/course/spring-boot-tutorial-for-beginners/?couponCode=SEP2022)
 - [4️⃣ Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=SEP2022)
 
-## Recommended Next Steps
+## Next Steps
 
 - [Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=SEP2022)
 - [Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?couponCode=SEP2022)
@@ -191,14 +188,14 @@ https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d5
 - Cloud
 - DevOps Fundamentals
 
-## Recommended Course Path
+## Course Path
 
 - [1️⃣ Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=SEP2022)
 - [2️⃣ Spring Framework Master Class - Java Spring the Modern Way](https://www.udemy.com/course/spring-tutorial-for-beginners/?couponCode=SEP2022)
 - [3️⃣ Learn Spring Boot 3 in 100 Steps - No 1 Java Framework](https://www.udemy.com/course/spring-boot-tutorial-for-beginners/?couponCode=SEP2022)
 - [4️⃣ Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=SEP2022)
 
-## Recommended Next Steps
+## Next Steps
 
 - [Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=SEP2022)
 - [Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?couponCode=SEP2022)
