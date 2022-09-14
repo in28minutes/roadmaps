@@ -2,13 +2,13 @@
 
 Helping 1 MILLION learners take their first step into Programming, Cloud and DevOps. [Follow Ranga on LinkedIn](https://links.in28minutes.com/lin)
 
-- [AWS Roadmap](#aws-roadmap)
-- [Azure Roadmap](#azure-roadmap)
-- [Google Cloud Roadmap](#google-cloud-roadmap)
-- [Cloud Beginner Roadmap](#cloud-beginner-roadmap)
-- [DevOps Roadmap](#devops-roadmap)
-- [Java Full Stack Roadmap](#java-full-stack-roadmap)
-- [Java Microservices Roadmap](#java-microservices-roadmap)
+1️⃣ [AWS Roadmap](#aws-roadmap)
+2️⃣ [Azure Roadmap](#azure-roadmap)
+3️⃣ [Google Cloud Roadmap](#google-cloud-roadmap)
+4️⃣ [Cloud Beginner Roadmap](#cloud-beginner-roadmap)
+5️⃣ [DevOps Roadmap](#devops-roadmap)
+6️⃣ [Java Full Stack Roadmap](#java-full-stack-roadmap)
+7️⃣ [Java Microservices Roadmap](#java-microservices-roadmap)
 
 
 # AWS Roadmap
