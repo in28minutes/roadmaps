@@ -2,19 +2,13 @@
 
 Helping 1 MILLION learners take their first step into Programming, Cloud and DevOps. [Follow Ranga on LinkedIn](https://links.in28minutes.com/lin)
 
-1️⃣ [AWS Roadmap](#aws-roadmap)
-
-2️⃣ [Azure Roadmap](#azure-roadmap)
-
-3️⃣ [Google Cloud Roadmap](#google-cloud-roadmap)
-
-4️⃣ [Cloud Beginner Roadmap](#cloud-beginner-roadmap)
-
-5️⃣ [DevOps Roadmap](#devops-roadmap)
-
-6️⃣ [Java Full Stack Roadmap](#java-full-stack-roadmap)
-
-7️⃣ [Java Microservices Roadmap](#java-microservices-roadmap)
+- [AWS Roadmap](#aws-roadmap)
+- [Azure Roadmap](#azure-roadmap)
+- [Google Cloud Roadmap](#google-cloud-roadmap)
+- [Cloud Beginner Roadmap](#cloud-beginner-roadmap)
+- [DevOps Roadmap](#devops-roadmap)
+- [Java Full Stack Roadmap](#java-full-stack-roadmap)
+- [Java Microservices Roadmap](#java-microservices-roadmap)
 
 
 # AWS Roadmap
@@ -22,11 +16,15 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 ## Course Path
 
-- [1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
-- [2️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=SEP2022)
-- [3️⃣ AWS Certified Solutions Architect Associate - SAA C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?couponCode=SEP2022)
-- [4️⃣ AWS Certified Developer Associate - AWS Certification](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?couponCode=SEP2022)
-- [5️⃣ AWS Interview Guide - Review 50+ AWS Services in 5 Hours](https://www.udemy.com/course/aws-interview-questions-answers/?couponCode=SEP2022)
+[1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
+
+[2️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=SEP2022)
+
+[3️⃣ AWS Certified Solutions Architect Associate - SAA C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?couponCode=SEP2022)
+
+[4️⃣ AWS Certified Developer Associate - AWS Certification](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?couponCode=SEP2022)
+
+[5️⃣ AWS Interview Guide - Review 50+ AWS Services in 5 Hours](https://www.udemy.com/course/aws-interview-questions-answers/?couponCode=SEP2022)
 
 ## Next Steps
 
