@@ -19,7 +19,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 # AWS Roadmap
 
 
-## Course Path
+### Course Path
 
 [1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
 
@@ -31,7 +31,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 [5️⃣ AWS Interview Guide - Review 50+ AWS Services in 5 Hours](https://www.udemy.com/course/aws-interview-questions-answers/?couponCode=SEP2022)
 
-## What Our 1 MILLION Learners Say
+### What Our 1 MILLION Learners Say
 
 :star::star::star::star::star: Great course, AWS well explained E2E, good tough quiz sections and perfect hands-on practice.
 
@@ -43,13 +43,13 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 :star::star::star::star::star: Trainer was very good at breaking down key points in terms that are easily understood.
 
-## Next Steps
+### Next Steps
 
 [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 # Azure Roadmap
 
-## Course Path
+### Course Path
 
 [1️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
 
@@ -57,7 +57,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 [3️⃣ AI-900: Microsoft Azure AI Fundamentals in a Weekend](https://www.udemy.com/course/azure-ai-900-azure-ai-fundamentals/?couponCode=SEP2022)
 
-## What Our 1 MILLION Learners Say
+### What Our 1 MILLION Learners Say
 
 :star::star::star::star::star: - Get certified quickly without even looking for other resources. Just watch videos for 2 days and appeared for the exam and cleared the exam.
 
@@ -69,7 +69,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 :star::star::star::star::star: - The course is very good, easy to understand and follow
 
-## Next Steps
+### Next Steps
 
 [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
@@ -77,7 +77,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 # Google Cloud Roadmap
 
 
-## Course Path
+### Course Path
 
 [1️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=SEP2022)
 
@@ -88,7 +88,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 [4️⃣ GCP Professional Cloud Architect: Google Cloud Certification](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?couponCode=SEP2022)
 
 
-## What Our 1 MILLION Learners Say
+### What Our 1 MILLION Learners Say
 
 :star::star::star::star::star: Wow, what can I say? I just passed my second exam this month (NO PRIOR EXPERIENCE) and now I have two Google Cloud Certs (CDL and ACE). I'm very thankful for Ranga and his amazing content.
 
@@ -100,13 +100,13 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 :star::star::star::star::star: This was an amazing experience learning GCP. Thank you Ranga!! I passed after going through your video in my first attempt!!
 
-## Next Steps
+### Next Steps
 
 [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 # Cloud Beginner Roadmap
 
-## Course Path
+### Course Path
 
 [1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
 
@@ -117,7 +117,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 [4️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=SEP2022)
 
 
-## What Our 1 MILLION Learners Say
+### What Our 1 MILLION Learners Say
 
 :star::star::star::star::star: Wow, what can I say? I just passed my second exam this month (NO PRIOR EXPERIENCE) and now I have two Google Cloud Certs (CDL and ACE). I'm very thankful for Ranga and his amazing content.
 
@@ -129,7 +129,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 :star::star::star::star::star: This was an amazing experience learning GCP. Thank you Ranga!! I passed after going through your video in my first attempt!!
 
-## Next Steps
+### Next Steps
 
 [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
@@ -137,12 +137,12 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 # DevOps Roadmap
 
 
-## Course - 5-in-1 course
+### Course - 5-in-1 course
 
 [1️⃣ Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 
-## What Our 1 MILLION Learners Say
+### What Our 1 MILLION Learners Say
 
 
 :star::star::star::star::star: The best instructor of Udemy! This is a great course to understand about DevOps, the involved concepts, and to apply the concepts.
@@ -159,7 +159,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 # Java Full Stack Roadmap
 
-## Course Path
+### Course Path
 
 
 [1️⃣ Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=SEP2022)
@@ -171,7 +171,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 [4️⃣ Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=SEP2022)
 
 
-## What Our 1 MILLION Learners Say
+### What Our 1 MILLION Learners Say
 
 
 :star::star::star::star::star: Yes the **Journey was Amazing**, the Tutor is Awesome. Not a single doubt & error i faced while following **Step-by-Step** videos. I would suggest this course to all those who really want to **Learn Spring Boot + Angular**. The Explanation was clear and systematic. I would like to thank Mr. Rangakaran as he is the best Tutor... :)
@@ -186,7 +186,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 :star::star::star::star::star: This is the **perfect course for Java developers** to use to get familiar with Angular and do it beyond just an elementary kind of familiarity.  Very good job, instructor.  Thank you!
 
-## Next Steps
+### Next Steps
 
 
 [Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=SEP2022)
@@ -198,13 +198,13 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 
-## Video
+### Video
 
 https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d55Un&index=3
 
 # Java Microservices Roadmap
 
-## Course Path
+### Course Path
 
 
 [1️⃣ Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=SEP2022)
@@ -216,7 +216,7 @@ https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d5
 [4️⃣ Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=SEP2022)
 
 
-## What Our 1 MILLION Learners Say
+### What Our 1 MILLION Learners Say
 
 
 :star::star::star::star::star: I was having misconception that  the topic Docker is tough one to understand. And **you made it really easy**. Thank you so much and I would really recommend my colleagues/friends to learn it from your tutorial.
@@ -233,11 +233,11 @@ https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d5
 
 :star::star::star::star::star: Awesome really good start to cloud services. **Complex stuff explained really cool way.** I love it
 
-## Video
+### Video
 
 https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d55Un&index=3
 
-## Next Steps
+### Next Steps
 
 
 [Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=SEP2022)
