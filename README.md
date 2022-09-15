@@ -22,7 +22,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 - [Join 30,000+ Followers of Ranga on LinkedIn](https://links.in28minutes.com/lin)
 
 
-## AWS Roadmap
+# AWS Roadmap
 
 [1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
 
@@ -45,7 +45,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 :star::star::star::star::star: Trainer was very good at breaking down key points in terms that are easily understood.
 
 
-## Azure Roadmap
+# Azure Roadmap
 
 [1️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
 
@@ -84,7 +84,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 :star::star::star::star::star: This was an amazing experience learning GCP. Thank you Ranga!! I passed after going through your video in my first attempt!!
 
-## Cloud Beginner Roadmap
+# Cloud Beginner Roadmap
 
 [1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
 
@@ -105,7 +105,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 :star::star::star::star::star: This was an amazing experience learning GCP. Thank you Ranga!! I passed after going through your video in my first attempt!!
 
 
-## DevOps Roadmap
+# DevOps Roadmap
 
 [1️⃣ Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
@@ -121,7 +121,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 :star::star::star::star::star: It's easy to understand, very complete, and good for beginners to start learning about DevOps
 
-## Java Full Stack Roadmap
+# Java Full Stack Roadmap
 
 [1️⃣ Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=SEP2022)
 
@@ -144,15 +144,13 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 :star::star::star::star::star: This is the **perfect course for Java developers** to use to get familiar with Angular and do it beyond just an elementary kind of familiarity.  Very good job, instructor.  Thank you!
 
 
-### Video
-
-https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d55Un&index=3
+Video - https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d55Un&index=3
 
 # Java Microservices Roadmap
 
 
 [1️⃣ Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=SEP2022)
-
+↓
 [2️⃣ Spring Framework Master Class - Java Spring the Modern Way](https://www.udemy.com/course/spring-tutorial-for-beginners/?couponCode=SEP2022)
 
 [3️⃣ Learn Spring Boot 3 in 100 Steps - No 1 Java Framework](https://www.udemy.com/course/spring-boot-tutorial-for-beginners/?couponCode=SEP2022)
