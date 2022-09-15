@@ -31,10 +31,6 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 [5️⃣ AWS Interview Guide - Review 50+ AWS Services in 5 Hours](https://www.udemy.com/course/aws-interview-questions-answers/?couponCode=SEP2022)
 
-## Next Steps
-
-[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
-
 ## What Our 1 MILLION Learners Say
 - :star::star::star::star::star: Great course, AWS well explained E2E, good tough quiz sections and perfect hands-on practice.
 - :star::star::star::star::star: a perfect way to have a solid foundation of AWS
@@ -42,9 +38,9 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 - :star::star::star::star::star: This course is excellent, as we expect from in28minutes. Content is current and the explanations are very clear. The instructor has very strong knowledge and is a good communicator as well. I will continue to use in28minutes courses with confidence!
 - :star::star::star::star::star: Trainer was very good at breaking down key points in terms that are easily understood.
 
-## Video
+## Next Steps
 
-- COMING SOON!
+[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 # Azure Roadmap
 
@@ -56,10 +52,6 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 [3️⃣ AI-900: Microsoft Azure AI Fundamentals in a Weekend](https://www.udemy.com/course/azure-ai-900-azure-ai-fundamentals/?couponCode=SEP2022)
 
-## Next Steps
-
-[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
-
 ## What Our 1 MILLION Learners Say
 - :star::star::star::star::star: - Get certified quickly without even looking for other resources. Just watch videos for 2 days and appeared for the exam and cleared the exam.
 - :star::star::star::star::star: - Great Course! Simple and easy to understand.
@@ -67,9 +59,9 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 - :star::star::star::star::star: - Ranga is my all-time favorite instructor on Udemy. The course is well structured.
 - :star::star::star::star::star: - The course is very good, easy to understand and follow
 
-## Video
+## Next Steps
 
-- COMING SOON!
+[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 
 # Google Cloud Roadmap
@@ -85,9 +77,6 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 [4️⃣ GCP Professional Cloud Architect: Google Cloud Certification](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?couponCode=SEP2022)
 
-## Next Steps
-
-[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 ## What Our 1 MILLION Learners Say
 - :star::star::star::star::star: Wow, what can I say? I just passed my second exam this month (NO PRIOR EXPERIENCE) and now I have two Google Cloud Certs (CDL and ACE). I'm very thankful for Ranga and his amazing content.
@@ -96,9 +85,9 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 - :star::star::star::star::star: Ranga Karanam Best Instructor. Best Presentation. Best teaching Structure. Best Reviews after every section and at the end.
 - :star::star::star::star::star: This was an amazing experience learning GCP. Thank you Ranga!! I passed after going through your video in my first attempt!!
 
-## Video
+## Next Steps
 
-- COMING SOON!
+[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 # Cloud Beginner Roadmap
 
@@ -113,10 +102,6 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 [4️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=SEP2022)
 
 
-## Next Steps
-
-[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
-
 ## What Our 1 MILLION Learners Say
 - :star::star::star::star::star: Wow, what can I say? I just passed my second exam this month (NO PRIOR EXPERIENCE) and now I have two Google Cloud Certs (CDL and ACE). I'm very thankful for Ranga and his amazing content.
 - :star::star::star::star::star: Passed my GCDL on 29th december with a mind blowing score this course is must for all cloud aspirants.. It is explained very well
@@ -124,9 +109,10 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 - :star::star::star::star::star: Ranga Karanam Best Instructor. Best Presentation. Best teaching Structure. Best Reviews after every section and at the end.
 - :star::star::star::star::star: This was an amazing experience learning GCP. Thank you Ranga!! I passed after going through your video in my first attempt!!
 
-## Video
+## Next Steps
 
-- COMING SOON!
+[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
+
 
 # DevOps Roadmap
 
@@ -145,26 +131,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 - :star::star::star::star::star: Great Information and solid teaching of the core concepts as well as the technical implementations of DevOps
 - :star::star::star::star::star: It's easy to understand, very complete, and good for beginners to start learning about DevOps
 
-## Free Preview Courses
-
-[Learn Docker in 5 Steps](https://www.youtube.com/watch?v=Rt5G5Gj7RP0)
-
-[Learn Kubernetes in 10 Steps](https://www.youtube.com/watch?v=rTNR7vDQDD8)
-
 # Java Full Stack Roadmap
-
-## Skills You Will Learn
-
-- Java
-- OOPs
-- Spring 
-- Spring Boot
-- Spring Cloud
-- ES6
-- TypeScript
-- Angular
-- Building REST API
-- Building Full Stack Applications
 
 ## Course Path
 
@@ -177,6 +144,16 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 [4️⃣ Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=SEP2022)
 
+
+## What Our 1 MILLION Learners Say
+
+- :star::star::star::star::star: Yes the **Journey was Amazing**, the Tutor is Awesome. Not a single doubt & error i faced while following **Step-by-Step** videos. I would suggest this course to all those who really want to **Learn Spring Boot + Angular**. The Explanation was clear and systematic. I would like to thank Mr. Rangakaran as he is the best Tutor... :)
+- :star::star::star::star::star: It is a great course teaching the fundamentals of Spring Boot and Angular. Integrating the Spring Boot with Angular using Restful services. Finally the author taught important aspects in the Spring Boot with an example. He also taught the JPA and how JPA is used to commit the data and retrieve the data using repository
+- :star::star::star::star::star: Please keep making more videos. They are extraordinary. I did just a couple of these courses and **cracked interviews without having any prior knowledge** on the topics. Thank you, Mr. Rangarao Karanam :)
+- :star::star::star::star::star: This Angular and Spring is an excellent course. **This is better course than best rated 37Hr Angular course**. Short and concise and no nonsense.  Ranga is a very good teacher and talks to the point. Glad I took this course. Learned a lot. Thank you Ranga.
+- :star::star::star::star::star: I'm extremely satisfied with the approach that the instructor has taken to explain Angular.  Namely, comparing how things would be done in Java and then how to do in Angular.  Secondly, I truly appreciate how the instructor selects the 'core' implementations of Angular.  At this point, I personally don't need to know all the details of how Angular works; There are plenty of other Udemy courses that do that already!
+- :star::star::star::star::star: This is the **perfect course for Java developers** to use to get familiar with Angular and do it beyond just an elementary kind of familiarity.  Very good job, instructor.  Thank you!
+
 ## Next Steps
 
 
@@ -188,35 +165,12 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
-## What Our 1 MILLION Learners Say
-
-- :star::star::star::star::star: Yes the **Journey was Amazing**, the Tutor is Awesome. Not a single doubt & error i faced while following **Step-by-Step** videos. I would suggest this course to all those who really want to **Learn Spring Boot + Angular**. The Explanation was clear and systematic. I would like to thank Mr. Rangakaran as he is the best Tutor... :)
-- :star::star::star::star::star: It is a great course teaching the fundamentals of Spring Boot and Angular. Integrating the Spring Boot with Angular using Restful services. Finally the author taught important aspects in the Spring Boot with an example. He also taught the JPA and how JPA is used to commit the data and retrieve the data using repository
-- :star::star::star::star::star: Please keep making more videos. They are extraordinary. I did just a couple of these courses and **cracked interviews without having any prior knowledge** on the topics. Thank you, Mr. Rangarao Karanam :)
-- :star::star::star::star::star: This Angular and Spring is an excellent course. **This is better course than best rated 37Hr Angular course**. Short and concise and no nonsense.  Ranga is a very good teacher and talks to the point. Glad I took this course. Learned a lot. Thank you Ranga.
-- :star::star::star::star::star: I'm extremely satisfied with the approach that the instructor has taken to explain Angular.  Namely, comparing how things would be done in Java and then how to do in Angular.  Secondly, I truly appreciate how the instructor selects the 'core' implementations of Angular.  At this point, I personally don't need to know all the details of how Angular works; There are plenty of other Udemy courses that do that already!
-- :star::star::star::star::star: This is the **perfect course for Java developers** to use to get familiar with Angular and do it beyond just an elementary kind of familiarity.  Very good job, instructor.  Thank you!
-
 
 ## Video
 
 https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d55Un&index=3
 
 # Java Microservices Roadmap
-
-## Skills You Will Learn
-
-- Java
-- OOPs
-- Spring 
-- Spring Boot
-- Spring Cloud
-- Building REST API
-- Building Microservices
-- Docker 
-- Kubernetes
-- Cloud
-- DevOps Fundamentals
 
 ## Course Path
 
@@ -228,17 +182,6 @@ https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d5
 [3️⃣ Learn Spring Boot 3 in 100 Steps - No 1 Java Framework](https://www.udemy.com/course/spring-boot-tutorial-for-beginners/?couponCode=SEP2022)
 
 [4️⃣ Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=SEP2022)
-
-## Next Steps
-
-
-[Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=SEP2022)
-
-[Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?couponCode=SEP2022)
-
-[Master Java Unit Testing with Spring Boot & Mockito](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/?couponCode=SEP2022)
-
-[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
 
 ## What Our 1 MILLION Learners Say
@@ -254,3 +197,14 @@ https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d5
 ## Video
 
 https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d55Un&index=3
+
+## Next Steps
+
+
+[Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=SEP2022)
+
+[Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?couponCode=SEP2022)
+
+[Master Java Unit Testing with Spring Boot & Mockito](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/?couponCode=SEP2022)
+
+[Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
