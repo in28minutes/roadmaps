@@ -31,11 +31,11 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 [1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
 
-⬇
+⬇⬇⬇⬇⬇⬇⬇⬇
 
 [2️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=SEP2022)
 
-⬇
+⬇⬇⬇⬇⬇⬇⬇⬇
 
 [3️⃣ AWS Certified Solutions Architect Associate - SAA C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?couponCode=SEP2022)
 
