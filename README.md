@@ -160,7 +160,11 @@ Video - https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-G
 
 [2️⃣ Spring Framework Master Class - Java Spring the Modern Way](https://www.udemy.com/course/spring-tutorial-for-beginners/?couponCode=SEP2022)
 
+↓
+
 [3️⃣ Learn Spring Boot 3 in 100 Steps - No 1 Java Framework](https://www.udemy.com/course/spring-boot-tutorial-for-beginners/?couponCode=SEP2022)
+
+↓
 
 [4️⃣ Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=SEP2022)
 
