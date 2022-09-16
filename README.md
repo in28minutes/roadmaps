@@ -30,6 +30,8 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 # AWS Roadmap
 
+&nbsp;
+
 [1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
 
 [2️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=SEP2022)
@@ -39,6 +41,8 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 [4️⃣ AWS Certified Developer Associate - AWS Certification](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?couponCode=SEP2022)
 
 [5️⃣ AWS Interview Guide - Review 50+ AWS Services in 5 Hours](https://www.udemy.com/course/aws-interview-questions-answers/?couponCode=SEP2022)
+
+&nbsp;
 
 :star::star::star::star::star: Great course, AWS well explained E2E, good tough quiz sections and perfect hands-on practice.
 
@@ -53,11 +57,15 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 # Azure Roadmap
 
+&nbsp;
+
 [1️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
 
 [2️⃣ DP-900: Microsoft Azure Data Fundamentals in a Weekend](https://www.udemy.com/course/dp-900-azure-data-fundamentals-certification/?couponCode=SEP2022)
 
 [3️⃣ AI-900: Microsoft Azure AI Fundamentals in a Weekend](https://www.udemy.com/course/azure-ai-900-azure-ai-fundamentals/?couponCode=SEP2022)
+
+&nbsp;
 
 :star::star::star::star::star: - Get certified quickly without even looking for other resources. Just watch videos for 2 days and appeared for the exam and cleared the exam.
 
@@ -72,6 +80,8 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 # Google Cloud Roadmap
 
+&nbsp;
+
 [1️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=SEP2022)
 
 [2️⃣ GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/?couponCode=SEP2022)
@@ -79,6 +89,8 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 [3️⃣ Google Cloud Developer - GCP Professional Certification](https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer/?couponCode=SEP2022)
 
 [4️⃣ GCP Professional Cloud Architect: Google Cloud Certification](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?couponCode=SEP2022)
+
+&nbsp;
 
 :star::star::star::star::star: Wow, what can I say? I just passed my second exam this month (NO PRIOR EXPERIENCE) and now I have two Google Cloud Certs (CDL and ACE). I'm very thankful for Ranga and his amazing content.
 
