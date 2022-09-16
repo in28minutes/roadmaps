@@ -26,8 +26,11 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 [2️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
 
+* * *
 
 # AWS Roadmap
+
+* * *
 
 [1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
 
@@ -55,8 +58,11 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 :star::star::star::star::star: Trainer was very good at breaking down key points in terms that are easily understood.
 
+* * *
 
 # Azure Roadmap
+
+* * *
 
 [1️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
 
