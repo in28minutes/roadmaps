@@ -2,7 +2,6 @@
 
 Helping 1 MILLION learners take their first step into Programming, Cloud and DevOps.
 
-
 [1️⃣ AWS Roadmap](#aws-roadmap)
 
 [2️⃣ Azure Roadmap](#azure-roadmap)
@@ -20,6 +19,12 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 # Follow Ranga on LinkedIn
 
 - [Join 30,000+ Followers of Ranga on LinkedIn](https://links.in28minutes.com/lin)
+
+# Our Newest Courses
+
+[1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
+
+[2️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
 
 
 # AWS Roadmap
