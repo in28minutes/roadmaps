@@ -17,15 +17,23 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 [7️⃣ Java Microservices Roadmap](#java-microservices-roadmap)
 
+&nbsp;
+
+
 # Follow Ranga on LinkedIn
 
 - [Join 30,000+ Followers of Ranga on LinkedIn](https://links.in28minutes.com/lin)
+
+&nbsp;
+
 
 # Our Newest Courses
 
 [1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
 
 [2️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
+
+&nbsp;
 
 
 # AWS Roadmap
@@ -81,6 +89,9 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 # Google Cloud Roadmap
 
+&nbsp;
+
+
 [1️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=SEP2022)
 
 [2️⃣ GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/?couponCode=SEP2022)
@@ -105,6 +116,9 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 # Cloud Beginner Roadmap
 
+&nbsp;
+
+
 [1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
 
 [2️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=SEP2022)
@@ -123,8 +137,12 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 :star::star::star::star::star: This was an amazing experience learning GCP. Thank you Ranga!! I passed after going through your video in my first attempt!!
 
+&nbsp;
 
 # DevOps Roadmap
+
+&nbsp;
+
 
 [1️⃣ Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=SEP2022)
 
@@ -140,7 +158,13 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 :star::star::star::star::star: It's easy to understand, very complete, and good for beginners to start learning about DevOps
 
+&nbsp;
+
+
 # Java Full Stack Roadmap
+
+&nbsp;
+
 
 [1️⃣ Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=SEP2022)
 
@@ -165,7 +189,13 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 Video - https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-GIMR2-4d55Un&index=3
 
+&nbsp;
+
+
 # Java Microservices Roadmap
+
+&nbsp;
+
 
 
 [1️⃣ Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=SEP2022)
