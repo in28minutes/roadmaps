@@ -30,8 +30,6 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 # AWS Roadmap
 
-&nbsp;
-
 [1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=SEP2022)
 
 [2️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=SEP2022)
@@ -54,10 +52,11 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 :star::star::star::star::star: Trainer was very good at breaking down key points in terms that are easily understood.
 
+&nbsp;
+
+
 
 # Azure Roadmap
-
-&nbsp;
 
 [1️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=SEP2022)
 
@@ -77,10 +76,10 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 :star::star::star::star::star: - The course is very good, easy to understand and follow
 
+&nbsp;
+
 
 # Google Cloud Roadmap
-
-&nbsp;
 
 [1️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=SEP2022)
 
@@ -101,6 +100,8 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 :star::star::star::star::star: Ranga Karanam Best Instructor. Best Presentation. Best teaching Structure. Best Reviews after every section and at the end.
 
 :star::star::star::star::star: This was an amazing experience learning GCP. Thank you Ranga!! I passed after going through your video in my first attempt!!
+
+&nbsp;
 
 # Cloud Beginner Roadmap
 
