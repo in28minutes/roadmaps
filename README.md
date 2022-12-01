@@ -29,24 +29,24 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 # Our Newest Courses
 
-[1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=NOV2022)
+[1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=DEC2022)
 
-[2️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=NOV2022)
+[2️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=DEC2022)
 
 &nbsp;
 
 
 # AWS Roadmap
 
-[1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=NOV2022)
+[1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=DEC2022)
 
-[2️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=NOV2022)
+[2️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=DEC2022)
 
-[3️⃣ AWS Certified Solutions Architect Associate - SAA C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?couponCode=NOV2022)
+[3️⃣ AWS Certified Solutions Architect Associate - SAA C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?couponCode=DEC2022)
 
-[4️⃣ AWS Certified Developer Associate - AWS Certification](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?couponCode=NOV2022)
+[4️⃣ AWS Certified Developer Associate - AWS Certification](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?couponCode=DEC2022)
 
-[5️⃣ AWS Interview Guide - Review 50+ AWS Services in 5 Hours](https://www.udemy.com/course/aws-interview-questions-answers/?couponCode=NOV2022)
+[5️⃣ AWS Interview Guide - Review 50+ AWS Services in 5 Hours](https://www.udemy.com/course/aws-interview-questions-answers/?couponCode=DEC2022)
 
 &nbsp;
 
@@ -66,11 +66,11 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 # Azure Roadmap
 
-[1️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=NOV2022)
+[1️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=DEC2022)
 
-[2️⃣ DP-900: Microsoft Azure Data Fundamentals in a Weekend](https://www.udemy.com/course/dp-900-azure-data-fundamentals-certification/?couponCode=NOV2022)
+[2️⃣ DP-900: Microsoft Azure Data Fundamentals in a Weekend](https://www.udemy.com/course/dp-900-azure-data-fundamentals-certification/?couponCode=DEC2022)
 
-[3️⃣ AI-900: Microsoft Azure AI Fundamentals in a Weekend](https://www.udemy.com/course/azure-ai-900-azure-ai-fundamentals/?couponCode=NOV2022)
+[3️⃣ AI-900: Microsoft Azure AI Fundamentals in a Weekend](https://www.udemy.com/course/azure-ai-900-azure-ai-fundamentals/?couponCode=DEC2022)
 
 &nbsp;
 
@@ -89,13 +89,13 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 
 # Google Cloud Roadmap
 
-[1️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=NOV2022)
+[1️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=DEC2022)
 
-[2️⃣ GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/?couponCode=NOV2022)
+[2️⃣ GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/?couponCode=DEC2022)
 
-[3️⃣ Google Cloud Developer - GCP Professional Certification](https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer/?couponCode=NOV2022)
+[3️⃣ Google Cloud Developer - GCP Professional Certification](https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer/?couponCode=DEC2022)
 
-[4️⃣ GCP Professional Cloud Architect: Google Cloud Certification](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?couponCode=NOV2022)
+[4️⃣ GCP Professional Cloud Architect: Google Cloud Certification](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?couponCode=DEC2022)
 
 &nbsp;
 
@@ -114,13 +114,13 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 # Cloud Beginner Roadmap
 
 
-[1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=NOV2022)
+[1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=DEC2022)
 
-[2️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=NOV2022)
+[2️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=DEC2022)
 
-[3️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=NOV2022)
+[3️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=DEC2022)
 
-[4️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=NOV2022)
+[4️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=DEC2022)
 
 &nbsp;
 
@@ -140,7 +140,7 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 # DevOps Roadmap
 
 
-[1️⃣ Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=NOV2022)
+[1️⃣ Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=DEC2022)
 
 &nbsp;
 
@@ -163,11 +163,11 @@ Helping 1 MILLION learners take their first step into Programming, Cloud and Dev
 # Java Full Stack Roadmap
 
 
-[1️⃣ Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=NOV2022)
+[1️⃣ Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=DEC2022)
 
-[2️⃣ NEW - Master Spring Boot 3 & Spring Framework 6 with Java](https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/?couponCode=NOV2022)
+[2️⃣ NEW - Master Spring Boot 3 & Spring Framework 6 with Java](https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/?couponCode=DEC2022)
 
-[3️⃣ Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=NOV2022)
+[3️⃣ Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=DEC2022)
 
 &nbsp;
 
@@ -191,11 +191,11 @@ Video - https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-G
 
 # Java Microservices Roadmap
 
-[1️⃣ Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=NOV2022)
+[1️⃣ Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=DEC2022)
 
-[2️⃣ NEW - Master Spring Boot 3 & Spring Framework 6 with Java](https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/?couponCode=NOV2022)
+[2️⃣ NEW - Master Spring Boot 3 & Spring Framework 6 with Java](https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/?couponCode=DEC2022)
 
-[3️⃣ Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=NOV2022)
+[3️⃣ Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=DEC2022)
 
 &nbsp;
 
@@ -222,6 +222,6 @@ Video - https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-G
 
 ## Other Courses
 
-[Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?couponCode=NOV2022)
+[Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?couponCode=DEC2022)
 
-[Master Java Unit Testing with Spring Boot & Mockito](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/?couponCode=NOV2022)
+[Master Java Unit Testing with Spring Boot & Mockito](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/?couponCode=DEC2022)
