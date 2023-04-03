@@ -2,8 +2,12 @@
 
 Helping 1 MILLION learners take their first step into Programming, Cloud and DevOps.
 
-GO TO THE LATEST VERSION of ROADMAPS - https://www.in28minutes.com/roadmaps
+## LATEST VERSION
 
+Find the latest version of roadmaps here - https://www.in28minutes.com/roadmaps
+
+
+## OLDER VERSIONS
 
 [1️⃣ AWS Roadmap](#aws-roadmap)
 
