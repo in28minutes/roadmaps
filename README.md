@@ -35,24 +35,21 @@ Find the latest version of roadmaps here - https://www.in28minutes.com/roadmaps
 
 # Our Newest Courses
 
-[1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=JAN2024)
 
-[2️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=JAN2024)
+[AZ-900 Microsoft Azure Fundamentals in a Weekend](https://links.in28minutes.com/az-900)
 
 &nbsp;
 
 
 # AWS Roadmap
 
-[1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=JAN2024)
+[1️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://links.in28minutes.com/ccp)
 
-[2️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=JAN2024)
+[2️⃣ AWS Certified Solutions Architect Associate - SAA C03](https://links.in28minutes.com/saa)
 
-[3️⃣ AWS Certified Solutions Architect Associate - SAA C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/?couponCode=JAN2024)
+[3️⃣ AWS Certified Developer Associate - AWS Certification](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?couponCode=FEB2024)
 
-[4️⃣ AWS Certified Developer Associate - AWS Certification](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/?couponCode=JAN2024)
-
-[5️⃣ AWS Interview Guide - Review 50+ AWS Services in 5 Hours](https://www.udemy.com/course/aws-interview-questions-answers/?couponCode=JAN2024)
+[4️⃣ AWS Interview Guide - Review 50+ AWS Services in 5 Hours](https://www.udemy.com/course/aws-interview-questions-answers/?couponCode=FEB2024)
 
 &nbsp;
 
@@ -72,11 +69,11 @@ Find the latest version of roadmaps here - https://www.in28minutes.com/roadmaps
 
 # Azure Roadmap
 
-[1️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=JAN2024)
+[1️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://links.in28minutes.com/az-900)
 
-[2️⃣ DP-900: Microsoft Azure Data Fundamentals in a Weekend](https://www.udemy.com/course/dp-900-azure-data-fundamentals-certification/?couponCode=JAN2024)
+[2️⃣ DP-900: Microsoft Azure Data Fundamentals in a Weekend](https://www.udemy.com/course/dp-900-azure-data-fundamentals-certification/?couponCode=FEB2024)
 
-[3️⃣ AI-900: Microsoft Azure AI Fundamentals in a Weekend](https://www.udemy.com/course/azure-ai-900-azure-ai-fundamentals/?couponCode=JAN2024)
+[3️⃣ AI-900: Microsoft Azure AI Fundamentals in a Weekend](https://www.udemy.com/course/azure-ai-900-azure-ai-fundamentals/?couponCode=FEB2024)
 
 &nbsp;
 
@@ -95,13 +92,13 @@ Find the latest version of roadmaps here - https://www.in28minutes.com/roadmaps
 
 # Google Cloud Roadmap
 
-[1️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=JAN2024)
+[1️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://links.in28minutes.com/get-started-google-cloud)
 
-[2️⃣ GCP Associate Cloud Engineer - Google Cloud Certification](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/?couponCode=JAN2024)
+[2️⃣ GCP Associate Cloud Engineer - Google Cloud Certification](https://links.in28minutes.com/ace)
 
-[3️⃣ Google Cloud Developer - GCP Professional Certification](https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer/?couponCode=JAN2024)
+[3️⃣ Google Cloud Developer - GCP Professional Certification](https://links.in28minutes.com/pcd)
 
-[4️⃣ GCP Professional Cloud Architect: Google Cloud Certification](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?couponCode=JAN2024)
+[4️⃣ GCP Professional Cloud Architect: Google Cloud Certification](https://links.in28minutes.com/pca)
 
 &nbsp;
 
@@ -119,14 +116,11 @@ Find the latest version of roadmaps here - https://www.in28minutes.com/roadmaps
 
 # Cloud Beginner Roadmap
 
+[1️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://links.in28minutes.com/ccp)
 
-[1️⃣ Cloud Computing in a Weekend - Learn AWS](https://www.udemy.com/course/cloud-computing-aws/?couponCode=JAN2024)
+[2️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://links.in28minutes.com/az-900)
 
-[2️⃣ AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/?couponCode=JAN2024)
-
-[3️⃣ AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/?couponCode=JAN2024)
-
-[4️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?couponCode=JAN2024)
+[3️⃣ GCP for Beginners - Become a Google Cloud Digital Leader](https://links.in28minutes.com/get-started-google-cloud)
 
 &nbsp;
 
@@ -146,7 +140,7 @@ Find the latest version of roadmaps here - https://www.in28minutes.com/roadmaps
 # DevOps Roadmap
 
 
-[1️⃣ Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/?couponCode=JAN2024)
+[1️⃣ Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://links.in28minutes.com/devops)
 
 &nbsp;
 
@@ -169,11 +163,11 @@ Find the latest version of roadmaps here - https://www.in28minutes.com/roadmaps
 # Java Full Stack Roadmap
 
 
-[1️⃣ Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=JAN2024)
+[1️⃣ Java Programming for Complete Beginners](https://links.in28minutes.com/java)
 
-[2️⃣ NEW - Master Spring Boot 3 & Spring Framework 6 with Java](https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/?couponCode=JAN2024)
+[2️⃣ NEW - Master Spring Boot 3 & Spring Framework 6 with Java](https://links.in28minutes.com/sb)
 
-[3️⃣ Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=JAN2024)
+[3️⃣ Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/?couponCode=FEB2024)
 
 &nbsp;
 
@@ -197,11 +191,11 @@ Video - https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-G
 
 # Java Microservices Roadmap
 
-[1️⃣ Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/?couponCode=JAN2024)
+[1️⃣ Java Programming for Complete Beginners](https://links.in28minutes.com/java)
 
-[2️⃣ NEW - Master Spring Boot 3 & Spring Framework 6 with Java](https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/?couponCode=JAN2024)
+[2️⃣ NEW - Master Spring Boot 3 & Spring Framework 6 with Java](https://links.in28minutes.com/sb)
 
-[3️⃣ Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=JAN2024)
+[3️⃣ Master Microservices with Spring Boot and Spring Cloud](https://links.in28minutes.com/microservices)
 
 &nbsp;
 
@@ -228,6 +222,6 @@ Video - https://www.youtube.com/watch?v=HgtTfYkeWBA&list=PLBBog2r6uMCTM_CKntPT-G
 
 ## Other Courses
 
-[Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?couponCode=JAN2024)
+[Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/?couponCode=FEB2024)
 
-[Master Java Unit Testing with Spring Boot & Mockito](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/?couponCode=JAN2024)
+[Master Java Unit Testing with Spring Boot & Mockito](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/?couponCode=FEB2024)
